@@ -1,3 +1,4 @@
+![AdobeStock_756833048](https://github.com/user-attachments/assets/ef3350b2-2e52-4c6e-a772-09d4d79b4aef)
 
 # Comprehensive Sales & Transaction Analysis for Consumer Electronics Procurement
 
