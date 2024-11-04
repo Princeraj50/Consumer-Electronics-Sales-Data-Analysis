@@ -37,23 +37,23 @@ This project delves into the sales and transaction data for a consumer electroni
 
 ## Questions List - II 
 ### Top and bottom 5 product names by year 
-Presented in second page of report
+Presented on the second page of the report below.
 ### Top and bottom 5 product categories by year 
-Presented in second page of report
+Presented on the second page of the report below.
 ### Top and bottom 5 sales employees by year 
-Presented in second page of report
+Presented on the second page of the report below.
 ### Top and bottom 5 profitable states by year
-Presented in second page of report
+Presented on the second page of the report below.
 
 --- 
 
 ## Detailed Analysis
 ### Employee performance based on quantity sold and earnings after discount by year and quarter
-Presented in first page of report
+Presented on the first page of the report below.
 ### Revenue generated in each quarter to identify if sales are more in a quarter
-Presented in second page of report
+Presented on the second page of the report below.
 ### Products that are influencing the total revenue
-Presented in key influencer section of report
+Presented in the key influencer section of the report below.
 
 ## Summary of the Data
 - **4th quarter had the highest revenue**, followed by the 3rd, 2nd, and 1st quarters.
@@ -61,7 +61,7 @@ Presented in key influencer section of report
 - **19 other factors also have a significant impact**, and they can be seen in the **key influencer visual**.
 
 ## User Questions Feel free to ask any questions about the data or analysis.
-There is a GenAI Q&A on the third page of the report. Alternatively, if you have any suggestions or inquiries, you can also submit an issue or pull request.
+There is a GenAI Q&A on the third page of the report. Also, if you have any suggestions or questions, feel free to submit an issue or pull request.
 
 ## Screenshots
 ![Dashboard](https://github.com/user-attachments/assets/8b66e918-0c41-44fd-9d9f-0eb91e5701f4)
